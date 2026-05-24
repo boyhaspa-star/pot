@@ -7,12 +7,6 @@ export default function HeroBackground() {
           fill="currentColor"
         />
       </svg>
-      <svg className="hero-path" viewBox="0 0 1440 280" preserveAspectRatio="none">
-        <path
-          d="M0 180C168 132 296 134 431 166C588 203 701 214 854 170C1039 118 1209 43 1440 71V280H0V180Z"
-          fill="currentColor"
-        />
-      </svg>
     </div>
   );
 }
